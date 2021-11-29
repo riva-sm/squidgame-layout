@@ -5,5 +5,6 @@
 - CSS
 - JavaScript
 - Flexbox
+- Videotube
 
 demo: https://riva-sm.github.io/squidgame-layout/
